@@ -1,5 +1,8 @@
 # Dash App for PUE and WUE calculator
 
+![Alt Text](https://github.com/nuoaleon/UEcalculator_dash_app/blob/master/demo/ue_demo.gif)
+
+
 ## Link to the App deployed on Heroku
 https://calpwue.herokuapp.com/
 
