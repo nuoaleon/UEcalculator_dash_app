@@ -1,7 +1,7 @@
 # PUE and WUE calculator
 
 ## About this app
-Online calculator to estimate data center PUE and WUE values based on user input (climate zone, data center size, cooling system configuration, data center energy system variables).
+Online calculator to estimate data center PUE and WUE values based on user inputs (climate zone, data center size, cooling system configuration, data center energy system variables).
 
 ## How to use
 ![Alt Text](https://github.com/nuoaleon/UEcalculator_dash_app/blob/master/demo/ue_demo.gif)
