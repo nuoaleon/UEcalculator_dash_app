@@ -1,0 +1,301 @@
+PUE,WUE,Climate Zone,Case,Quantile,Data center size,Cooling system
+1.168778594,0.772859335,1A,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.167221032,0.798717261,2A,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.125016139,0.467691297,2B,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.131943355,0.408480832,3A,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.108655643,0.258825626,3B,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.090086296,0.004227926,3C,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.109270684,0.27157155,4A,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.095413393,0.046633481,4B,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.086045242,0.002872491,4C,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.099911269,0.203410868,5A,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.088857128,0.042475709,5B,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.104479539,0.152656855,6A,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.083847189,0.011224947,6B,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.099403124,0.072875991,7,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.076795026,0.043237838,8,1,5th,Large-scale,Airside economizer& adiabatic cooling
+1.106980543,1.760808265,1A,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.09889183,1.754706741,2A,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.083599853,1.748862452,2B,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.08686738,1.748077906,3A,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.079865667,1.743018422,3B,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.074122687,1.745528947,3C,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.084191498,1.743394578,4A,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.079923759,1.738466005,4B,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.074658777,1.74171536,4C,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.082783862,1.739613983,5A,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.079867705,1.736056517,5B,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.081149938,1.734712344,6A,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.077936422,1.733102831,6B,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.077427886,1.731947783,7,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.074615187,1.724105363,8,2,5th,Large-scale,Water-cooled chiller (waterside economizer)
+1.472172706,1.595412515,1A,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.436873887,1.528484559,2A,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.391980132,1.014061476,2B,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.395264961,1.076695856,3A,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.391467402,0.948318734,3B,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.308970977,0.08131564,3C,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.379381154,0.972390531,4A,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.376254361,0.577044714,4B,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.300971819,0.093780427,4C,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.372080396,0.873640577,5A,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.382355729,0.758167536,5B,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.374755751,1.061580133,6A,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.339079824,0.399317696,6B,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.382978385,1.048749156,7,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.37705769,1.21267917,8,3,5th,Midsize,Water-cooled chiller (airside economizer)
+1.302333167,2.027552037,1A,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.288718101,2.020192248,2A,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.272831151,2.013142686,2B,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.273651963,2.012196423,3A,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.274063474,2.006093549,3B,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.263463802,2.009121714,3C,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.270289432,2.006547366,4A,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.28607275,2.000602422,4B,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.265190636,2.004521755,4C,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.271416967,2.001987226,5A,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.286777486,1.997648172,5B,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.270705899,1.995916121,6A,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.279710153,1.993841713,6B,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.270392035,1.992353361,7,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.266082622,1.982246928,8,4,5th,Midsize,Water-cooled chiller (waterside economizer)
+1.498608887,2.510304071,1A,5,5th,Midsize,Water-cooled chiller
+1.488016063,2.477092753,2A,5,5th,Midsize,Water-cooled chiller
+1.481375503,2.443040138,2B,5,5th,Midsize,Water-cooled chiller
+1.480408538,2.442130991,3A,5,5th,Midsize,Water-cooled chiller
+1.476737316,2.415302169,3B,5,5th,Midsize,Water-cooled chiller
+1.469226622,2.424582354,3C,5,5th,Midsize,Water-cooled chiller
+1.469589903,2.420997971,4A,5,5th,Midsize,Water-cooled chiller
+1.482947196,2.395833349,4B,5,5th,Midsize,Water-cooled chiller
+1.465893278,2.408085738,4C,5,5th,Midsize,Water-cooled chiller
+1.466999528,2.405004024,5A,5,5th,Midsize,Water-cooled chiller
+1.480144504,2.386100265,5B,5,5th,Midsize,Water-cooled chiller
+1.461312811,2.385278591,6A,5,5th,Midsize,Water-cooled chiller
+1.46854917,2.373282812,6B,5,5th,Midsize,Water-cooled chiller
+1.458752613,2.372392686,7,5,5th,Midsize,Water-cooled chiller
+1.445451901,2.342594421,8,5,5th,Midsize,Water-cooled chiller
+1.622380103,0.018531953,1A,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.577250626,0.01578301,2A,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.587003977,0.012336632,2B,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.47086716,0.013223915,3A,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.537043492,0.011863663,3B,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.324038133,0.00155148,3C,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.428950327,0.012564133,4A,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.425297759,0.007905728,4B,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.310511801,0.002065195,4C,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.403327617,0.011623457,5A,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.413153266,0.009833148,5B,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.384611984,0.012739882,6A,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.337219852,0.00518588,6B,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.38182274,0.013972291,7,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.345557962,0.014803463,8,6,5th,Midsize,Air-cooled chiller (airside economizer)
+1.732076241,0.023535122,1A,7,5th,Midsize,Air-cooled chiller
+1.652653321,0.023535122,2A,7,5th,Midsize,Air-cooled chiller
+1.74512901,0.023535122,2B,7,5th,Midsize,Air-cooled chiller
+1.590213186,0.023535122,3A,7,5th,Midsize,Air-cooled chiller
+1.663068761,0.023535122,3B,7,5th,Midsize,Air-cooled chiller
+1.514961624,0.023535122,3C,7,5th,Midsize,Air-cooled chiller
+1.540937886,0.023535122,4A,7,5th,Midsize,Air-cooled chiller
+1.563397435,0.023535122,4B,7,5th,Midsize,Air-cooled chiller
+1.488651062,0.023535122,4C,7,5th,Midsize,Air-cooled chiller
+1.509602543,0.023535122,5A,7,5th,Midsize,Air-cooled chiller
+1.532018118,0.023535122,5B,7,5th,Midsize,Air-cooled chiller
+1.485213457,0.023535122,6A,7,5th,Midsize,Air-cooled chiller
+1.483298398,0.023535122,6B,7,5th,Midsize,Air-cooled chiller
+1.456391471,0.023535122,7,7,5th,Midsize,Air-cooled chiller
+1.431248386,0.023535122,8,7,5th,Midsize,Air-cooled chiller
+1.70836584,2.848747831,1A,8,5th,Small,Water-cooled chiller
+1.694451868,2.804132069,2A,8,5th,Small,Water-cooled chiller
+1.684651282,2.757446601,2B,8,5th,Small,Water-cooled chiller
+1.68352233,2.756514426,3A,8,5th,Small,Water-cooled chiller
+1.67781638,2.718740943,3B,8,5th,Small,Water-cooled chiller
+1.669915565,2.73137521,3C,8,5th,Small,Water-cooled chiller
+1.670046085,2.727155694,4A,8,5th,Small,Water-cooled chiller
+1.687135736,2.691829299,4B,8,5th,Small,Water-cooled chiller
+1.664980324,2.70854784,4C,8,5th,Small,Water-cooled chiller
+1.666004574,2.705068943,5A,8,5th,Small,Water-cooled chiller
+1.684005134,2.678472873,5B,8,5th,Small,Water-cooled chiller
+1.659073245,2.678037272,6A,8,5th,Small,Water-cooled chiller
+1.669479103,2.66084409,6B,8,5th,Small,Water-cooled chiller
+1.656490969,2.660190115,7,8,5th,Small,Water-cooled chiller
+1.640600532,2.619787205,8,8,5th,Small,Water-cooled chiller
+1.94412416,0.025015924,1A,9,5th,Small,Air-cooled chiller
+1.855702446,0.025015924,2A,9,5th,Small,Air-cooled chiller
+1.958359582,0.025015924,2B,9,5th,Small,Air-cooled chiller
+1.779346537,0.025015924,3A,9,5th,Small,Air-cooled chiller
+1.868752047,0.025015924,3B,9,5th,Small,Air-cooled chiller
+1.686631664,0.025015924,3C,9,5th,Small,Air-cooled chiller
+1.716761997,0.025015924,4A,9,5th,Small,Air-cooled chiller
+1.748044031,0.025015924,4B,9,5th,Small,Air-cooled chiller
+1.655797535,0.025015924,4C,9,5th,Small,Air-cooled chiller
+1.680333836,0.025015924,5A,9,5th,Small,Air-cooled chiller
+1.711272095,0.025015924,5B,9,5th,Small,Air-cooled chiller
+1.651796866,0.025015924,6A,9,5th,Small,Air-cooled chiller
+1.650799836,0.025015924,6B,9,5th,Small,Air-cooled chiller
+1.615247875,0.025015924,7,9,5th,Small,Air-cooled chiller
+1.584021037,0.025015924,8,9,5th,Small,Air-cooled chiller
+1.992396933,0.025015924,1A,10,5th,Small,Direct expansion system
+1.951157961,0.025015924,2A,10,5th,Small,Direct expansion system
+2.023914249,0.025015924,2B,10,5th,Small,Direct expansion system
+1.917050283,0.025015924,3A,10,5th,Small,Direct expansion system
+1.977030526,0.025015924,3B,10,5th,Small,Direct expansion system
+1.851913088,0.025015924,3C,10,5th,Small,Direct expansion system
+1.892294858,0.025015924,4A,10,5th,Small,Direct expansion system
+1.918919209,0.025015924,4B,10,5th,Small,Direct expansion system
+1.854153231,0.025015924,4C,10,5th,Small,Direct expansion system
+1.881470315,0.025015924,5A,10,5th,Small,Direct expansion system
+1.906718765,0.025015924,5B,10,5th,Small,Direct expansion system
+1.873338482,0.025015924,6A,10,5th,Small,Direct expansion system
+1.878033126,0.025015924,6B,10,5th,Small,Direct expansion system
+1.858597138,0.025015924,7,10,5th,Small,Direct expansion system
+1.848598253,0.025015924,8,10,5th,Small,Direct expansion system
+1.34161001,2.361464022,1A,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.307072274,1.803385815,2A,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.253373306,1.123287848,2B,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.25108422,1.146644337,3A,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.226675581,0.76753891,3B,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.233754104,1.138921307,3C,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.2229656,0.832947037,4A,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.195759215,0.323297153,4B,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.202081461,0.551813779,4C,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.213025076,0.71154455,5A,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.19503872,0.300275627,5B,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.203328477,0.523825876,6A,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.179072303,0.114415301,6B,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.199111601,0.517675003,7,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.174331539,0.224601487,8,1,95th,Large-scale,Airside economizer& adiabatic cooling
+1.290444576,2.62901392,1A,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.250156431,2.623000266,2A,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.200920688,2.617240132,2B,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.214853669,2.616466898,3A,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.1916989,2.611480274,3B,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.182618024,2.613954629,3C,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.202450181,2.611851029,4A,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.193304067,2.606993435,4B,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.183491754,2.610195976,4C,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.1958826,2.608124897,5A,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.193522223,2.604579482,5B,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.191825407,2.603164111,6A,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.19010353,2.601469182,6B,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.187360717,2.600252953,7,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.183741922,2.591994779,8,2,95th,Large-scale,Water-cooled chiller (waterside economizer)
+1.756394487,2.876625769,1A,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.713641033,2.451810838,2A,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.671878239,2.132837434,2B,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.66526996,1.99393332,3A,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.692355834,2.61736184,3B,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.586689735,1.507489014,3C,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.644624439,1.925980514,4A,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.682869069,2.294379088,4B,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.534493299,0.830174196,4C,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.63777704,1.905758932,5A,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.676055722,2.155266755,5B,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.638850626,1.926800833,6A,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.62736828,1.820874232,6B,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.651132032,2.115784712,7,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.638053619,2.227154073,8,3,95th,Midsize,Water-cooled chiller (airside economizer)
+1.644916716,3.015215893,1A,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.588448828,3.008284732,2A,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.51319725,3.001645781,2B,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.532630341,3.000754561,3A,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.50906819,2.995007128,3B,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.493502735,2.997859012,3C,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.512178017,2.995434432,4A,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.529767133,2.989835711,4B,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.496232328,2.993526886,4C,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.506996698,2.991139784,5A,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.530871752,2.987053445,5B,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.501699322,2.985422095,6A,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.519712185,2.983468588,6B,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.504096498,2.982066769,7,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.497620108,2.972548566,8,4,95th,Midsize,Water-cooled chiller (waterside economizer)
+1.789717656,3.738868427,1A,5,95th,Midsize,Water-cooled chiller
+1.776812501,3.691951534,2A,5,95th,Midsize,Water-cooled chiller
+1.769073826,3.643333281,2B,5,95th,Midsize,Water-cooled chiller
+1.767707107,3.642564784,3A,5,95th,Midsize,Water-cooled chiller
+1.763920478,3.603319114,3B,5,95th,Midsize,Water-cooled chiller
+1.754055718,3.616199132,3C,5,95th,Midsize,Water-cooled chiller
+1.75419826,3.612295311,4A,5,95th,Midsize,Water-cooled chiller
+1.777315663,3.575650674,4B,5,95th,Midsize,Water-cooled chiller
+1.749898282,3.592708572,4C,5,95th,Midsize,Water-cooled chiller
+1.751027652,3.58961286,5A,5,95th,Midsize,Water-cooled chiller
+1.77460506,3.561982709,5B,5,95th,Midsize,Water-cooled chiller
+1.744796289,3.561992292,6A,5,95th,Midsize,Water-cooled chiller
+1.75813377,3.543920086,6B,5,95th,Midsize,Water-cooled chiller
+1.743040649,3.543632515,7,5,95th,Midsize,Water-cooled chiller
+1.727239372,3.502659426,8,5,95th,Midsize,Water-cooled chiller
+2.246070933,0.073999725,1A,6,95th,Midsize,Air-cooled chiller (airside economizer)
+2.018165449,0.062379886,2A,6,95th,Midsize,Air-cooled chiller (airside economizer)
+2.05690531,0.053177094,2B,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.782668227,0.052089447,3A,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.981052529,0.063845989,3B,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.603037423,0.036629951,3C,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.698325547,0.048275224,4A,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.706981118,0.057905677,4B,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.545864274,0.020607121,4C,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.654755092,0.047779048,5A,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.681870493,0.054834231,5B,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.613501293,0.051745566,6A,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.580522669,0.045925245,6B,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.593107147,0.055417899,7,6,95th,Midsize,Air-cooled chiller (airside economizer)
+1.556460344,0.058154643,8,6,95th,Midsize,Air-cooled chiller (airside economizer)
+2.452880636,0.097571845,1A,7,95th,Midsize,Air-cooled chiller
+2.250522283,0.097571845,2A,7,95th,Midsize,Air-cooled chiller
+2.443977003,0.097571845,2B,7,95th,Midsize,Air-cooled chiller
+2.095882937,0.097571845,3A,7,95th,Midsize,Air-cooled chiller
+2.25345017,0.097571845,3B,7,95th,Midsize,Air-cooled chiller
+1.914703849,0.097571845,3C,7,95th,Midsize,Air-cooled chiller
+1.988478134,0.097571845,4A,7,95th,Midsize,Air-cooled chiller
+2.031119238,0.097571845,4B,7,95th,Midsize,Air-cooled chiller
+1.862242558,0.097571845,4C,7,95th,Midsize,Air-cooled chiller
+1.920248453,0.097571845,5A,7,95th,Midsize,Air-cooled chiller
+1.961497415,0.097571845,5B,7,95th,Midsize,Air-cooled chiller
+1.869708186,0.097571845,6A,7,95th,Midsize,Air-cooled chiller
+1.853722424,0.097571845,6B,7,95th,Midsize,Air-cooled chiller
+1.793713261,0.097571845,7,7,95th,Midsize,Air-cooled chiller
+1.736449703,0.097571845,8,7,95th,Midsize,Air-cooled chiller
+2.075877473,4.286154732,1A,8,95th,Small,Water-cooled chiller
+2.045033668,4.217851215,2A,8,95th,Small,Water-cooled chiller
+2.025137403,4.149810424,2B,8,95th,Small,Water-cooled chiller
+2.023327829,4.148883934,3A,8,95th,Small,Water-cooled chiller
+2.010943272,4.093393207,3B,8,95th,Small,Water-cooled chiller
+1.999360323,4.111818398,3C,8,95th,Small,Water-cooled chiller
+1.999387494,4.106735828,4A,8,95th,Small,Water-cooled chiller
+2.024608423,4.052181892,4B,8,95th,Small,Water-cooled chiller
+1.989595168,4.077388074,4C,8,95th,Small,Water-cooled chiller
+1.991131386,4.073516346,5A,8,95th,Small,Water-cooled chiller
+2.018788046,4.031924368,5B,8,95th,Small,Water-cooled chiller
+1.97792089,4.032650102,6A,8,95th,Small,Water-cooled chiller
+1.993979917,4.005116195,6B,8,95th,Small,Water-cooled chiller
+1.972617811,4.005289869,7,8,95th,Small,Water-cooled chiller
+1.944547148,3.945143688,8,8,95th,Small,Water-cooled chiller
+2.69381923,0.103105163,1A,9,95th,Small,Air-cooled chiller
+2.453499487,0.103105163,2A,9,95th,Small,Air-cooled chiller
+2.681429161,0.103105163,2B,9,95th,Small,Air-cooled chiller
+2.27015156,0.103105163,3A,9,95th,Small,Air-cooled chiller
+2.457881404,0.103105163,3B,9,95th,Small,Air-cooled chiller
+2.052512393,0.103105163,3C,9,95th,Small,Air-cooled chiller
+2.139079521,0.103105163,4A,9,95th,Small,Air-cooled chiller
+2.186309952,0.103105163,4B,9,95th,Small,Air-cooled chiller
+1.993084354,0.103105163,4C,9,95th,Small,Air-cooled chiller
+2.054747935,0.103105163,5A,9,95th,Small,Air-cooled chiller
+2.110239269,0.103105163,5B,9,95th,Small,Air-cooled chiller
+2.004628759,0.103105163,6A,9,95th,Small,Air-cooled chiller
+1.98501973,0.103105163,6B,9,95th,Small,Air-cooled chiller
+1.9168409,0.103105163,7,9,95th,Small,Air-cooled chiller
+1.853944189,0.103105163,8,9,95th,Small,Air-cooled chiller
+2.521183262,0.103105163,1A,10,95th,Small,Direct expansion system
+2.449098762,0.103105163,2A,10,95th,Small,Direct expansion system
+2.572834374,0.103105163,2B,10,95th,Small,Direct expansion system
+2.387310288,0.103105163,3A,10,95th,Small,Direct expansion system
+2.488261345,0.103105163,3B,10,95th,Small,Direct expansion system
+2.276489336,0.103105163,3C,10,95th,Small,Direct expansion system
+2.346427565,0.103105163,4A,10,95th,Small,Direct expansion system
+2.377728343,0.103105163,4B,10,95th,Small,Direct expansion system
+2.279237513,0.103105163,4C,10,95th,Small,Direct expansion system
+2.32610873,0.103105163,5A,10,95th,Small,Direct expansion system
+2.355999018,0.103105163,5B,10,95th,Small,Direct expansion system
+2.311326882,0.103105163,6A,10,95th,Small,Direct expansion system
+2.310862594,0.103105163,6B,10,95th,Small,Direct expansion system
+2.284083809,0.103105163,7,10,95th,Small,Direct expansion system
+2.268924144,0.103105163,8,10,95th,Small,Direct expansion system
