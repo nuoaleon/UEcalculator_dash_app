@@ -20,7 +20,7 @@ import io
 ######################################
 
 ####app
-app = dash.Dash(external_stylesheets=[dbc.themes.MORPH])  # MORPH   SOLAR
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.MORPH])  # MORPH   SOLAR
 server = app.server
 
 PATH = pathlib.Path(__file__).parent
@@ -30,7 +30,7 @@ DATA_PATH = PATH.joinpath("data").resolve()
 df_UE = pd.read_csv(DATA_PATH.joinpath("UE.csv"))
 
 ###########For the Introduction#######
-run_info = "To calculate your data center PUE& WUE, you need to choose (1) the climate zone your data center locates in, (2) the size of your data center, (3) the cooling system your data center uses," + \
+run_info = "To calculate your data center PUE& WUE, you need to choose (1) the climate zone your data center locates in or upload your own climate dataset, (2) the size of your data center, (3) the cooling system your data center uses," + \
            " and (4) your data center setpoints and data center system variables (see reference for variable definition), then (5) click the Run button."
 climate_info = "The user can select a climate zone, and the model will use the default climate dataset for that climate zone to calculate the annual average PUE and WUE value of the data center. Also, users can choose to upload their own climate dataset, preferably in .csv format, which should include 1) dry bulb temperature in degrees Celsius, 2) relative humidity (%), and 3) atmospheric pressure in Pasar, arranged like:"
 reference_info = "This online PUE& WUE calculator is a reduced-order model based on our publications in Climate-and technology-specific PUE and WUE estimations for US data centers using a hybrid statistical and thermodynamics-based approach (https://doi.org/10.1016/j.resconrec.2022.106323)" + \
